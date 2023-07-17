@@ -3,7 +3,7 @@
 
 - 🌱 In 2021, I started my career transition to IT
 
-- 🔭 I’m currently improving my knowledge in **Vue, Angular & React**
+- 🔭 I’m currently improving my knowledge in **Vue & Angular**
 
 - 💬 Ask me about **front-end development, books, tv shows, and bilingual education**
 
