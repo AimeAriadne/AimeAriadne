@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Aimê Ramalho</h1>
 <h3 align="center">A frontend developer from Brazil, now living in Portugal</h3>
 
-- 🌱 I’m currently improving my knowledge in **Vue, Angular & React**
+- 🌱 In 2021, I started my career transition to IT
 
-- 💬 Ask me about **front-end development, books, tv shows and bilingual education**
+- 🔭 I’m currently improving my knowledge in **Vue, Angular & React**
+
+- 💬 Ask me about **front-end development, books, tv shows, and bilingual education**
 
 - ⚡ Fun fact: **I spent about ten years working as a bilingual educator**
 
